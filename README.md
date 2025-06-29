@@ -1,3 +1,1 @@
-# py-yt-dl
-
-dependencies: pytubefix
+# ytdl
