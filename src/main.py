@@ -9,7 +9,7 @@ def Download(link):
 
         # save path
         save_path = os.path.join(os.path.expanduser("~"), "Documents", "Videos")
-        stream.download(output_path=save_path) # stream.download is correct, zed is stupid
+        stream.download(output_path=save_path)
 
         print("downloaded successfully:", save_path)
     except:
